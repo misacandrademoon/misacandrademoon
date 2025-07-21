@@ -7,7 +7,7 @@ I have academic training in **Applied Mathematics and Computer Science**, with p
 
 ---
 
-## ⚙️ Languages and Tools
+
 
 ## ⚙️ Languages and Tools
 
