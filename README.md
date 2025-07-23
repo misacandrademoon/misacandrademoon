@@ -44,7 +44,7 @@ I have academic training in **Applied Mathematics and Computer Science**, with p
 ## 🚀 Featured Projects
 
 - [**Smart City Project**](https://github.com/misacandrademoon/smart-city)  
-  🛰️ IoT system for waste collection and real-time public transport monitoring using ESP32, GPS, Flask, and MongoDB.
+  🛰️ IoT system for waste collection and real-time public transport monitoring using ESP32, GPS, Flask, and sqlite.
 
 - [**AI Projects – Samsung Innovation Campus 2024**](https://github.com/misacandrademoon/ai-samsung)  
   🤖 Machine learning projects using Python and Scikit-learn, including classification, regression, and evaluation models.
@@ -53,11 +53,11 @@ I have academic training in **Applied Mathematics and Computer Science**, with p
   🎓 Linear regression model to analyze how well students align with their chosen career path using AI.
 
 - [**Freelance Projects**](https://github.com/misacandrademoon/freelance-projects)  
-  📊 Business dashboards, API integration, and automation using Python Flask, Spring Boot (with Swagger UI), Power BI, Excel, and occasionally Looker Studio and Google Sheets.
+  📊 Business dashboards, API integration, and automation using Python Flask, Power BI, Excel, and occasionally Looker Studio and Google Sheets.
 
 
 - [**School Projects**](https://github.com/misacandrademoon/school-projects)  
-  📚 Academic projects on applied math, APIs, data visualization, and statistics.
+  📚 Academic projects on applied math, APIs, data visualization, and statistics, SpringBoot and use API Swagger UI.
 
 
 ---
