@@ -47,7 +47,7 @@ I have academic training in **Applied Mathematics and Computer Science**, with p
 - [**Smart City Project**](https://github.com/misacandrademoon/smart-city)  
   🛰️ IoT system for waste collection and real-time public transport monitoring using ESP32, GPS, Flask, and sqlite.
 
-- [** AI Introduction **](https://github.com/misacandrademoon/Introduction-AI-ML-EntryLevelPractice)  
+- [**AI Introduction**](https://github.com/misacandrademoon/Introduction-AI-ML-EntryLevelPractice)  
   🤖 Machine learning projects using Python and Scikit-learn, including classification, regression, and evaluation models.
 
 - [**EdvantisAI**](https://github.com/EdvantisAI)  
