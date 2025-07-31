@@ -2,6 +2,7 @@
 
 I have academic training in **Applied Mathematics and Computer Science**, with practical experience in **Artificial Intelligence, Data Analysis, Web Development**, **operating systems** (macOS,iOS and Ubuntu) and **Database Systems**.
 
+
 💡 I'm passionate about solving real world problems through technology — from IoT and machine learning to interactive dashboards and full-stack applications. I enjoy exploring new tools and building hands-on projects that make a difference. 🚀
 
 
@@ -46,10 +47,10 @@ I have academic training in **Applied Mathematics and Computer Science**, with p
 - [**Smart City Project**](https://github.com/misacandrademoon/smart-city)  
   🛰️ IoT system for waste collection and real-time public transport monitoring using ESP32, GPS, Flask, and sqlite.
 
-- [**AI Projects – Samsung Innovation Campus 2024**](https://github.com/misacandrademoon/ai-samsung)  
+- [** AI Introduction **](https://github.com/misacandrademoon/Introduction-AI-ML-EntryLevelPractice)  
   🤖 Machine learning projects using Python and Scikit-learn, including classification, regression, and evaluation models.
 
-- [**EdvantisAI**](https://github.com/misacandrademoon/edvantisAILR)  
+- [**EdvantisAI**](https://github.com/EdvantisAI)  
   🎓 Linear regression model to analyze how well students align with their chosen career path using AI.
 
 - [**Freelance Projects**](https://github.com/misacandrademoon/freelance-projects)  
