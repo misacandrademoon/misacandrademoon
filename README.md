@@ -36,9 +36,7 @@ I have academic training in **Applied Mathematics and Computer Science**, with p
 
 ## 📊 My GitHub Stats
 
-![Misac's GitHub stats](https://github-readme-stats.vercel.app/api?username=misacandrademoon&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misacandrademoon&layout=compact&theme=radical)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=misacandrademoon&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
