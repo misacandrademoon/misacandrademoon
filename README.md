@@ -34,12 +34,6 @@ I have academic training in **Applied Mathematics and Computer Science**, with p
 
 ---
 
-## 📊 My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misacandrademoon&theme=radical&hide_border=true)](https://github.com/misacandrademoon)
-
-
----
-
 ## 🚀 Featured Projects
 
 - [**Smart City Project**](https://github.com/misacandrademoon/smart-city)  
