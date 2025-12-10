@@ -36,12 +36,12 @@ I have academic training in **Applied Mathematics and Computer Science**, with p
 
 ## 📊 My GitHub Stats
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=misacandrademoon&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
 ## 🚀 Featured Projects
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=misacandrademoon&theme=radical&hide_border=true)](https://github.com/misacandrademoon)
 - [**Smart City Project**](https://github.com/misacandrademoon/smart-city)  
   🛰️ IoT system for waste collection and real-time public transport monitoring using ESP32, GPS, Flask, and sqlite.
 
