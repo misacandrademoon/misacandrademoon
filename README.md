@@ -1,61 +1,66 @@
-# 👋 Hello! I'm Misac Andrade 🌙
+<div align="center">
 
-I have academic training in **Applied Mathematics and Computer Science**, with practical experience in **Artificial Intelligence, Data Analysis, Web Development**, **operating systems** (macOS,iOS and Ubuntu) and **Database Systems**.
-
-
-💡 I'm passionate about solving real world problems through technology — from IoT and machine learning to interactive dashboards and full-stack applications. I enjoy exploring new tools and building hands-on projects that make a difference. 🚀
-
-
----
-
-
-
-## ⚙️ Languages and Tools
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-002147?style=for-the-badge&logo=gnu&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-- [**Smart City Project**](https://github.com/misacandrademoon/smart-city)  
-  🛰️ IoT system for waste collection and real-time public transport monitoring using ESP32, GPS, Flask, and sqlite.
-
-- [**AI Introduction**](https://github.com/misacandrademoon/Introduction-AI-ML-EntryLevelPractice)  
-  🤖 Machine learning projects using Python and Scikit-learn, including classification, regression, and evaluation models.
-
-- [**EdvantisAI**](https://github.com/EdvantisAI)  
-  🎓 Linear regression model to analyze how well students align with their chosen career path using AI.
-
-- [**Freelance Projects**](https://github.com/misacandrademoon/freelance-projects)  
-  📊 Business dashboards, API integration, and automation using Python Flask, Power BI, Excel, and occasionally Looker Studio and Google Sheets.
-
-
-- [**School Projects**](https://github.com/misacandrademoon/school-projects)  
-  📚 Academic projects on applied math, APIs, data visualization, and statistics, SpringBoot and use API Swagger UI.
-
-
----
-
-## 🌐 Find me on
+# 👋 Hi, I'm Misac Andrade
+### Applied Mathematician & Software Engineer
+**Building scalable Data Pipelines • Production AI/ML Solutions • Robust Automated Testing**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misac-al-dws)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrade.misac@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrade.misac@gmail.com)
+
+</div>
+
+---
+
+### ⚡ Profile Overview
+- 🎓 **Background:** Applied Mathematics and Computer Science.
+- 🎯 **Target Roles:** AI Engineer | Data Engineer | QA Automation Engineer (SDET).
+- 🔬 **Core Focus:** LLMs & AI workflows, automated test suites (Playwright), distributed data workflows, and robust backend APIs.
+- 💬 **Ask me about:** End-to-end testing, predictive modeling, and system architectures.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+#### 🤖 AI, Machine Learning & Data Engineering
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+#### 🧪 Quality Assurance & Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### ⚙️ Backend & Systems
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+### 🚀 Highlighted Projects
+
+| Project | Domain | Stack | Overview |
+| :--- | :--- | :--- | :--- |
+| [**Smart City Platform**](https://github.com/misacandrademoon/smart-city) | **IoT / Data** | ESP32, Flask, SQLite, GPS | Real-time telemetry monitoring for municipal fleets and waste tracking pipelines. |
+| [**EdvantisAI**](https://github.com/EdvantisAI) | **AI / Modeling** | Python, Scikit-learn, APIs | Predictive career-alignment models using supervised learning algorithms. |
+| [**Automated QA & API Suite**](https://github.com/misacandrademoon/AgentE2EQAWorkflow-Playwright) | **QA Automation** | Playwright, Swagger, Spring Boot | End-to-end functional test runs and API contract verification. |
+| [**Client Data Pipelines**](https://github.com/misacandrademoon/freelance-projects) | **Data Engineering** | Python, REST APIs, Power BI | Automated ETL integrations, data modeling, and executive KPI reporting. |
+| [**AI Entry Level**](https://github.com/misacandrademoon/freelance-projects)| **AI Engineering** |🤖 Machine learning projects using Python and Scikit-learn, including classification, regression, and evaluation models.
+
+
+---
+
+<div align="center">
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=misacandrademoon&show_icons=true&theme=tokyonight" alt="Misac's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misacandrademoon&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
+</div>
